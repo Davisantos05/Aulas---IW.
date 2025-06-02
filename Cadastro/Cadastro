@@ -20,8 +20,8 @@
 <label for="telefone"> Telefone</label>
 <input type="tel" id="telefone" name="telefone" placeholder="(11) 91234-5678" required/>
 
-<label for="cpf"> Telefone</label>
-<input type="text" id="cpf" name="cpf" placeholder="00000000000" required/>
+<label for="cpf"> CPF</label>
+<input type="text" Telefoneid="cpf" name="cpf" placeholder="00000000000" required/>
 
 <label for="senha"> Senha</label>
 <input type="password" id="Senha" name="Senha" required/>   
